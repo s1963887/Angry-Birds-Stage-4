@@ -1,2 +1,2 @@
-# AngryBirdsStage3
-Stage 3 Angry Birds: Introducing Constraint
+# AngryBirdsStage4
+Stage 4 Angry Birds: created a slingshot effect
